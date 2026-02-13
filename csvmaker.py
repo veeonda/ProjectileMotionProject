@@ -2,7 +2,6 @@ import csv
 import random
 import math
 
-# Ask user for total number of rows
 num_samples = int(input("How many samples do you want to generate? "))
 
 g = 9.8  # m/s^2
